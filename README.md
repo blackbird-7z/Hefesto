@@ -37,7 +37,7 @@ Projetado desde o início para ser facilmente extensível, o projeto está licen
 
 ## 📦 Instalação
 
-Você pode baixar a versão executável do Hefesto diretamente do [último release](https://github.com/hyagodejesus/Hefesto/releases/tag/Release-1).
+Você pode baixar a versão executável do Hefesto diretamente do [último release](https://github.com/blackbird-7z/Hefesto/releases/tag/Release-1).
 
 1. Clique no link acima para acessar a página de Releases.
 2. Baixe o arquivo `hefesto.zip`.
