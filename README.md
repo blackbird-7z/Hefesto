@@ -17,7 +17,7 @@ Hefesto foi projetado para facilitar a organização e a junção de múltiplos 
 
 
 ## 🎥 Funcionamento
-https://github.com/user-attachments/assets/132b1658-22b6-44ea-80a4-1d997cd7e6c2
+https://github.com/user-attachments/assets/12cc2707-05f4-4cf8-8506-8900f7121e74
 
 
 ## 🚀 Arquitetura e Boas Práticas:
